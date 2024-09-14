@@ -56,7 +56,7 @@ Experimental functions block.
 The purpose of the block: checking the system by simulating various phenomena beyond the user's control, be it natural phenomena, simulating a pipeline failure or one of the database copies. The block is separate, because it should not be in the conditions of real system operation.
 
 Thus, the developed system not only ensures reliable monitoring in real time, but also provides users with tools for effective pipeline management, risk minimization and prompt response to any possible malfunctions.
-
+A programming environment is used for launching, I haven't made an executable yet.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -114,3 +114,4 @@ nd off определенных ниток трубопровода, чтобы 
 Назначение блока: проверка системы путем моделирования различных явлений, находящихся вне контроля пользователя, будь то природные явления, имитация аварии трубопровода или одной из копий базы данных. Блок является отдельным, т.к. не должен находиться в условиях реальной работы системы.
 
 Таким образом, разработанная система не только обеспечивает надежный мониторинг в режиме реального времени, но и предоставляет пользователям инструменты для эффективного управления трубопроводом, минимизации рисков и оперативного реагирования на возможные неисправности.
+Для запуска используется среда программирования, экзе пока не сделал.
