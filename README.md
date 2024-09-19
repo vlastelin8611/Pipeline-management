@@ -59,6 +59,17 @@ Thus, the developed system not only ensures reliable monitoring in real time, bu
 A programming environment is used for launching, I haven't made an executable yet. The program is in Russian.
 
 
+
+
+UPD: I am starting to work on polishing the project. Additional comments based on the results of supervision:
+- Tkinter update, fixed window block sizes;
+- Replacement of simulation with full-fledged working functions for use in real work conditions (due to the limitation of the system size by one computer, some functions will have to be expressed at other levels than they could be ideally, for example, two-factor authentication will be expressed by login and password, and ideally it would be to make confirmation by encrypted key card with subsequent verification via camera by a third-party operator of the intermediate oil pipeline station, or you can implement the operator programmatically, with face recognition and verification with the database, but this block is worth a separate project, but how good it is!);
+- Vertical and horizontal sliders are MANDATORY;
+- Signatures of each functional block;
+- Experimental block on call from a button;
+- Translation to EXE format in the final.
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -115,3 +126,14 @@ nd off определенных ниток трубопровода, чтобы 
 
 Таким образом, разработанная система не только обеспечивает надежный мониторинг в режиме реального времени, но и предоставляет пользователям инструменты для эффективного управления трубопроводом, минимизации рисков и оперативного реагирования на возможные неисправности.
 Для запуска используется среда программирования, экзе пока не сделал. Программа на русском языке.
+
+
+
+
+ДОПОЛНЕНИЕ: начинаю работу над полировкой проекта. дополнительные замечания по итогам супервизии:
+- обновление ткинтер, фикс размеров блоков окон;
+- замена симуляции полноценными работоспособными функциями для применения в условиях реальной работы (ввиду ограничения размеров системы одним компьютером, придется выразить некоторые функции на других уровнях, чем это может быть в идеале, например, двухфакторная аутентификация будет выражена логином и паролем, а в идеале было бы сделать подтверждение по зашифрованной ключ-карте с последующей верификацией через камеру сторонним оператором промежуточной станции нефтепровода, либо можно реализовать оператора программно, с функцией распознавания лица и сверкой с базой данных, но этот блок тянет на отдельный проект, зато как хорош!);
+- ползунки вертикальные и горизонтальные ОБЯЗАТЕЛЬНО;
+- подписи каждый функциолнальных блоков;
+- экспериментальный блок по вызову с кнопки;
+- перевод в exe формат в финале.
