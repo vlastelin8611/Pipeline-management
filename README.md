@@ -70,6 +70,10 @@ UPD: I am starting to work on polishing the project. Additional comments based o
 - Translation to EXE format in the final.
 
 
+
+
+P.S. I refactored from scratch, rewrote everything structurally, update to 0.3 coming soon
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -137,3 +141,9 @@ nd off определенных ниток трубопровода, чтобы 
 - подписи каждый функциолнальных блоков;
 - экспериментальный блок по вызову с кнопки;
 - перевод в exe формат в финале.
+
+
+
+
+
+З.Ы. провел рефакторинг с нуля, структурно переписал всё, скоро апдейт до 0.3
